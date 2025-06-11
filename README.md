@@ -32,4 +32,4 @@
 | **exit**       | -                   | завершение работы программы                        |
 | **help**       |                     | справка                                            |
 
-<br>Программа ожидает *connection_string* в формате 'dbname=имя_базы host=хост port=порт user=пользователь password=пароль'
+Программа ожидает *connection_string* в формате 'dbname=имя_базы host=хост port=порт user=пользователь password=пароль'
