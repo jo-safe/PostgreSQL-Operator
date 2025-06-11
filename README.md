@@ -31,4 +31,4 @@
 | **load**       | *filename*          | загрузка SQL-запросов из файла и их выполнение     |
 | **exit**       | -                   | завершение работы программы                        |
 | **help**       |                     | справка                                            |
-Программа ожидает *connection_string* в формате 'dbname=имя_базы host=хост port=порт user=пользователь password=пароль'
+<br>Программа ожидает *connection_string* в формате 'dbname=имя_базы host=хост port=порт user=пользователь password=пароль'
